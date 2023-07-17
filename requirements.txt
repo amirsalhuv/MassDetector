@@ -1,0 +1,2 @@
+rembg==2.0.37
+streamlit==1.15.2
